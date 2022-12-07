@@ -6,7 +6,6 @@ Limitations of the program include times being in military time instead of stand
 
 
 Example of program simulation/sequence
-
 ### Providing User Inputs
 1. First you will be asked to Enter 0 if you are a doctor or 1 if you are a patient
 2. Say you enter 1 (being a patient)
