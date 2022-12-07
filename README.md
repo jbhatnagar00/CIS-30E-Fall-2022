@@ -5,6 +5,7 @@ The algorithm uses concurrency as another tool to generate and print the list of
 Limitations of the program include times being in military time instead of standard time, and the doctor section is not fully fleshed out to show the appointment for a certain doctor after scheduling one as a patient (I wanted to work on this but unfortunately time was cut short due to UCI’s hard deadline and needing my grade earlier to send my transcript). These limitations can be improved by making the schedule show standard time and giving doctors more utility by allowing them to see more information on what is happening on the patient scheduling side. 
 
 
+
 Example of program simulation/sequence
 ### Providing User Inputs
 1. First you will be asked to Enter 0 if you are a doctor or 1 if you are a patient
