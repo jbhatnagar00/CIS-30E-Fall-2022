@@ -22,7 +22,6 @@ Example of program simulation/sequence
 13. And you will be asked to enter the ID# of the slot available (leftmost column)
 14. Say you enter ‘3’
 15. Your appointment will be scheduled and a message displayed
-
 ### Doctor Views Appointment
 1. Start the Program - You get following options
 * Enter 0 if you're a Doctor
